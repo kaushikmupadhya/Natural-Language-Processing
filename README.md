@@ -11,3 +11,5 @@ This repo contains
 4. Feature Engineering
 5. Building Machine Learning Classifiers
 6. Introduction to Keras and Tensorflow with simple NLP example.
+
+Kaggle Reference: https://www.kaggle.com/kaushikmanjunatha/natural-language-processing-spam-ham-classifier
